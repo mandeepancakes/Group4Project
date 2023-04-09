@@ -1,0 +1,14 @@
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEmployee.resources
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\bin\Debug\MyEmployeeDB.mdf
+C:\Users\apabo\OneDrive\Desktop\CEIS400\CourseProject\WindowsFormsApp1\bin\Debug\MyEmployeeDB_log.ldf
